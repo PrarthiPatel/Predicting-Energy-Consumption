@@ -13,3 +13,4 @@ requests>=2.32.2
 beautifulsoup4>=4.12
 lxml>=4.9
 lxml_html_clean>=0.4.3
+plotly>=5.22
