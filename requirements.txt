@@ -8,3 +8,4 @@ statsmodels==0.14.6
 shap==0.50.0
 prophet==1.1.5
 torch==2.2.2
+requests==2.32.5
