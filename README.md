@@ -196,7 +196,7 @@ streamlit run app.py
 
 ## ☁️ Deployment
 
-The dashboard can be deployed on **Streamlit Cloud**.
+The dashboard is deployed on **Streamlit Cloud**.
 
 ⚠️ Recommendations:
 
@@ -205,6 +205,9 @@ The dashboard can be deployed on **Streamlit Cloud**.
 * Cache model loading for faster startup
 
 ---
+# 🚀 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-ff4b4b?logo=streamlit&logoColor=white)](https://predicting-energy-consumption.streamlit.app/)
 
 ## 📈 Future Improvements
 
@@ -244,3 +247,4 @@ February 2026
 ✅ Research-grade feature engineering
 
 ---
+
